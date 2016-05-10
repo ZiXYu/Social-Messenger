@@ -1,0 +1,11 @@
+Documentation URL:
+http://www.djay.in/SMsetup
+
+
+varsion 1.1
+-Fixed Search Error
+- Add “User is now contact in activity”
+- Send/Recieve/Accepted friend request push notification added.
+
+
+version 1.0
